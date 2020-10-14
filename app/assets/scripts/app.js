@@ -1,1 +1,1 @@
-alert("Testing, testing ... 1,2,3")
+alert("Is webpack working")

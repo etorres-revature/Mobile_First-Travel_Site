@@ -12,6 +12,6 @@
   \***********************************/
 /*! unknown exports (runtime-defined) */
 /*! runtime requirements:  */
-eval("alert(\"Testing, testing ... 1,2,3\")\n\n//# sourceURL=webpack://mobile_first-travel_site/./app/assets/scripts/app.js?");
+eval("alert(\"Is webpack working\")\n\n//# sourceURL=webpack://mobile_first-travel_site/./app/assets/scripts/app.js?");
 /******/ })()
 ;
