@@ -1,0 +1,30 @@
+{
+  "name": "mobile_first-travel_site",
+  "version": "1.0.0",
+  "description": "Mobile first web-design with Node run time environment",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etorres-revature/Mobile_First-Travel_Site.git"
+  },
+  "keywords": [
+    "node.js",
+    "mobile-first",
+    "css",
+    "html"
+  ],
+  "author": "Eric D. Torres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etorres-revature/Mobile_First-Travel_Site/issues"
+  },
+  "homepage": "https://github.com/etorres-revature/Mobile_First-Travel_Site#readme"
+}
