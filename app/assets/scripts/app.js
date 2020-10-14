@@ -1,3 +1,3 @@
 import "../styles/styles.css";
 
-alert("Is webpack working");
+// alert("Is webpack working");
